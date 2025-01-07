@@ -1,0 +1,68 @@
+[ 2025-01-04 03:48:21,509 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2025-01-04 03:48:21,509 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-01-04 03:48:24,672 ] 48 root - ERROR - Error processing articles for keyword 'Cryptocurrency': 'response'
+[ 2025-01-04 03:48:25,087 ] 48 root - ERROR - Error processing articles for keyword 'IPOs': 'response'
+[ 2025-01-04 03:48:25,469 ] 48 root - ERROR - Error processing articles for keyword 'Mergers and Acquisitions': 'response'
+[ 2025-01-04 03:48:25,843 ] 48 root - ERROR - Error processing articles for keyword 'Regulation': 'response'
+[ 2025-01-04 03:48:26,242 ] 48 root - ERROR - Error processing articles for keyword 'Stocks and Bonds': 'response'
+[ 2025-01-04 03:48:26,604 ] 48 root - ERROR - Error processing articles for keyword 'Wall Street': 'response'
+[ 2025-01-04 03:48:26,604 ] 52 root - INFO - Articles Ingested using Search API
+[ 2025-01-04 03:48:27,215 ] 72 root - INFO - Articles Ingested using Top Stories API
+[ 2025-01-04 03:48:27,215 ] 26 root - INFO - Data Ingestion Completed
+[ 2025-01-04 03:48:29,106 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:31,179 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:33,608 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:34,747 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:36,083 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:37,499 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:40,673 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:42,619 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:45,691 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:47,022 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:49,071 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:49,786 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:51,529 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:52,359 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:53,782 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:54,803 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:57,569 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:48:58,081 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:00,232 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:02,099 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:02,689 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:03,304 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:03,917 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:05,761 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:08,731 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:12,111 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:14,977 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:15,900 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:17,513 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:20,392 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:25,088 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:27,983 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:28,904 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:31,055 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:31,873 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:33,103 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:33,922 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:35,765 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:36,498 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:38,426 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:39,143 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:42,625 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:44,673 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:45,533 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:48,053 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:50,926 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:51,948 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:53,685 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:57,617 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:58,140 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:49:59,897 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:02,491 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:07,158 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:07,919 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:11,296 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:15,395 ] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[ 2025-01-04 03:50:15,397 ] 42 root - INFO - Langchain used
