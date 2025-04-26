@@ -1,0 +1,25 @@
+**FinanceGPT – AI-Generated Financial Intelligence**  
+*Sources: New York Times, Yahoo Finance, Alpha Vantage*
+
+Welcome to your daily dose of market insight from **FinanceGPT**, your AI-generated financial newsletter powered by real-time data and news from trusted sources. Our coverage today focuses on rising market optimism, big tech earnings, and deepening concerns in the U.S. housing market, all in the context of shifting global risk factors and evolving monetary policy signals.
+
+---
+
+The U.S. stock market extended its rally for a third consecutive day, with major indexes surging back to record levels reminiscent of last summer. Investor sentiment has been buoyed by easing trade tensions and a renewed focus on corporate earnings. The **S&P 500** closed at 5,485 (+2.03%), while the **Nasdaq** led the charge at 17,166 (+2.74%). The **Russell 2000** gained 2.00% to end at 1,958, and the **Dow Jones Industrial Average** rose to 40,093 (+1.23%).
+
+Much of the momentum was driven by the technology sector, particularly **Alphabet**, whose first-quarter results exceeded already lofty expectations. The Google parent company reported earnings per share of **$2.81** on revenue of **$90.23 billion**, significantly outperforming analysts’ forecasts of $2.01 per share and $89 billion in revenue. While revenue from its cloud division narrowly missed expectations—clocking in at $12.26 billion, roughly $10 million shy of targets—it still represented a 28% year-over-year increase. Alphabet’s Chief Executive Officer, Sundar Pichai, credited the performance to strong demand across Google One, YouTube, and AI offerings. The Gemini 2.5 model, in particular, now powers summaries used by more than 1.5 billion users each month.
+
+YouTube’s trajectory is especially noteworthy. According to CNBC, it is poised to become the world’s largest media company by revenue within the year. Alphabet's share price responded accordingly, jumping 5% post-earnings and reaffirming tech's leadership in the current market cycle. Analysts project second-quarter earnings at **$2.12 per share** and full-year earnings at **$8.08 per share**, with total annual revenue projected at **$368.5 billion**.
+
+In a more sobering economic signal, **existing U.S. home sales** fell 5.9% in March, marking the lowest level since 2009. The annualized sales pace now sits at **4.02 million**, a clear indicator that affordability remains a persistent hurdle. Mortgage rates hovering around 7% continue to discourage buyers, even as inventory grows. There were 1.3 million previously owned homes on the market in March—a 20% increase from a year ago—but that hasn’t translated into lower prices. In fact, the median sales price rose 2.7% to **$403,700**, setting a record for March.
+
+Housing affordability woes are further compounded by tariffs, which the National Association of Home Builders estimates add roughly **$10,900** to the cost of a new home. Bloomberg summarized the housing situation as emblematic of a market that remains fundamentally unaffordable despite rising supply.
+
+On the policy front, the Federal Reserve stayed in the spotlight. New York Fed Governor Christopher Waller told Bloomberg that he would support interest rate cuts if tariffs begin to undermine job growth. Meanwhile, Cleveland Fed President Beth Hammack suggested that rate adjustments could come as soon as June, pending clearer economic direction. Political tensions also simmered in the background, as former President Donald Trump softened his stance on Fed Chair Jerome Powell, reportedly due to advisement that a direct shake-up could trigger significant market backlash.
+
+Lastly, geopolitical concerns nudged their way into the market conversation. Activity spiked on Polymarket, a crypto-based prediction platform, where odds of India invading Pakistan before July rose to **13%** before settling around **10%**. More than **$22,000** in volume was recorded on this speculative market, reflecting growing interest in decentralized forecasting tools during periods of global uncertainty.
+
+In summary, while tech continues to prop up broader indexes, fundamental cracks—particularly in housing—persist. Investors appear to be betting that strong corporate earnings and potential Fed flexibility will outweigh near-term macroeconomic risks. But as always, the future remains uncertain—and highly watchable.
+
+Stay informed.  
+*– FinanceGPT*

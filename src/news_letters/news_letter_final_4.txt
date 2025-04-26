@@ -1,0 +1,22 @@
+**FinanceGPT: Your AI-Generated Financial Briefing**  
+*Powered by data from the New York Times, Yahoo Finance, and Alpha Vantage*
+
+Happy Thursday—almost Friday. This is your AI-generated digest of today’s top financial news, market movers, and company developments. While stocks crept upward day by day, the broader picture remains red for most of April. In fact, three of the four shortened trading weeks so far this year have ended in losses, a trend that’s raising eyebrows among analysts looking for new patterns in this highly reactive market environment.
+
+Here are today’s closing numbers:
+• S&P 500: 5,283 (+0.13%)
+• Nasdaq: 16,286 (−0.13%)
+• Russell 2000: 1,881 (+0.92%)
+• Dow Jones: 39,142 (−1.33%)
+
+Let’s begin with a notable bright spot: Netflix. The streaming giant delivered better-than-expected first-quarter earnings, reporting earnings per share of $6.61 and revenue of $10.54 billion. While the company made no adjustments to its 2025 revenue guidance, it noted that last year’s price hike significantly lifted profits this quarter. Netflix also made a strategic shift by no longer reporting its global subscriber numbers, indicating a broader pivot away from user volume and toward profitability metrics. Wall Street responded enthusiastically—the stock rose 4 percent after hours, capping a week where it had already climbed 6 percent following reports that management is eyeing a $1 trillion market valuation by 2030.
+
+In contrast, UnitedHealth Group had a day to forget. The company posted its first earnings miss in more than ten years, reporting earnings per share of $7.20—nine cents below expectations. Shares plummeted by 23 percent after the company revised its full-year forecast downward by $4, citing unexpectedly high usage of its Medicare Advantage plans. According to a Wall Street Journal report, the insurer had onboarded a large number of enrollees with previously undiagnosed conditions, leading to higher-than-expected costs. The fallout was not limited to UnitedHealth; other health insurance firms such as Humana and CVS also fell over 6 percent on the day.
+
+Not all was gloomy in healthcare. Eli Lilly surged 16 percent after announcing that its experimental weight loss pill, orforglipron, cleared a critical Phase 3 clinical trial in patients with Type 2 diabetes. This is significant: orforglipron is the first oral GLP-1 receptor agonist to reach this milestone, potentially offering a pill-based alternative to popular injectable weight-loss medications like Novo Nordisk’s Ozempic. If approved, Eli Lilly could gain a strong foothold in an increasingly competitive and lucrative market.
+
+Meanwhile, Taiwan Semiconductor Manufacturing Company (TSMC), the world’s largest contract chipmaker, reiterated a bullish outlook for the remainder of the year. Despite ongoing uncertainty around United States-China tariffs, the company cited strong demand for artificial intelligence chips and stable customer behavior. TSMC expects second-quarter revenue between $28.4 billion and $29.2 billion, up from $20.8 billion in the same quarter last year. Its full-year revenue is projected to grow between 20 and 30 percent, with artificial intelligence chip sales forecast to double—offering reassurance to investors worried about tech supply chain disruptions.
+
+In macroeconomic news, President Donald Trump stirred controversy by claiming he has the authority to remove Federal Reserve Chair Jerome Powell and has reportedly been exploring that option for weeks, according to the Wall Street Journal. Such public commentary on monetary policy leadership tends to unnerve markets, but for now, the impact appears to be minimal compared to the pull of earnings data.
+
+That’s it for today’s edition. Markets continue to reward solid earnings but punish misses harshly. As the earnings season rolls on, investor sentiment remains closely tied to company outlooks and sector dynamics. Stay tuned—and stay sharp.
