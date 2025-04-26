@@ -1,0 +1,33 @@
+FinanceGPT Newsletter
+April 10, 2025 | 
+This newsletter is AI-generated using information from the New York Times, Yahoo Finance, and Alpha Vantage. Please note that while we strive for accuracy, all content should be used for informational purposes only.
+
+Thursday Took Nearly $2 Trillion: Will It Get Worse?
+Markets fell sharply on Thursday, reversing a third of the gains made just a day earlier. Average tariff rates of 20–24% across global markets pressured sentiment, as fears of prolonged economic headwinds intensified. Bank earnings are expected tomorrow, and according to a Stocktwits survey, half of the users anticipate bearish outcomes in this environment. Today's issue discusses de-dollarization trends, the toll of trade troubles on key industries, and a rare piece of good news on inflation.
+
+Here are the closing prices:
+S&P 500: 5,268 ▼ -3.46%
+Nasdaq: 16,387 ▼ -4.31%
+Russell 2000: 1,831 ▼ -4.27%
+Dow Jones: 39,594 ▼ -2.50%
+
+Bonds Show Caution as Gold Hits New High
+
+International investors are moving away from United States assets, such as Treasury bonds, and favoring alternatives like gold, which reached an all-time high. Despite low inflation and steady jobless claims, long-term Treasury notes are selling off, signaling deeper fears. Yields on the U.S. 10-year Treasury note, which had fallen briefly after the tariff pause, climbed back toward 4.5% at the time of writing. Encouragingly, the regular 10-year and 30-year bond sales this week were successful, suggesting liquidity remains stable.
+Edward Harrison from Bloomberg noted that recent abrupt trade decisions by the Trump administration are weakening the United States’ reputation as a stable financial hub. George Saravelos of Deutsche Bank highlighted a surge in safe-haven currencies such as the Swiss Franc, Euro, and Yen, reflecting investor unease.
+
+Industries Struggle as Trade Uncertainty Grows
+
+The trade turbulence is already impacting major sectors. CarMax shares ($KMX) fell over 17% after the company reported quarterly earnings of $0.58 per share, below analyst expectations, despite a 6.7% rise in revenue. Upcoming 25% tariffs on car parts starting May 3 are fueling concerns for companies dependent on vehicle sales and services. Automakers like Audi, Volkswagen, and Jaguar have reportedly started halting shipments to the United States, directly impacting retailers like Carvana and AutoNation.
+Separately, lab research firm Charles River saw a 26% drop after controversial commentary on vaccines made headlines, causing additional market churn.
+
+Entertainment and Tech Also Feel the Tariff Impact
+
+Film studios were not spared. Warner Bros. Discovery ($WBD), which had soared 20% earlier, gave up half of its gains after China announced it would cut American film imports. Disney shares also fell on the news. Last year, Dune: Part Two generated $48 million in China alone, underscoring the importance of this market for U.S. studios.
+Technology stocks saw major pullbacks after a historic run. Nvidia ($NVDA) slipped following a $440 billion market capitalization surge earlier in the week. Tesla ($TSLA) led declines among the Mag 7 stocks, as tariffs jeopardize its complex supply chain. Analyst Dan Ives called it a “fairytale” to believe Tesla could continue without reliance on imported parts. Apple ($AAPL), which had its best trading day since 1998 on Wednesday, gave back a third of its gains. The company has rushed 600 tons of iPhones from India to avoid new tariffs, though whether they arrived in time remains unclear.
+
+Inflation Drops, but Caution Remains
+
+In positive news, the March Consumer Price Index came in lower than expected at 2.4% year-over-year and fell 0.1% month-over-month — the first monthly decline since June of last year. Despite the promising inflation figures, markets showed little enthusiasm. Former Federal Reserve economist Claudia Sahm warned that the effects of the new tariffs have not yet materialized and may cause inflation to rise again later in the year.
+
+With macroeconomic uncertainty rising and financial markets under pressure, all eyes now turn to upcoming bank earnings and Federal Reserve decisions in May.
