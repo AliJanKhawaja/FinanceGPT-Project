@@ -2,7 +2,7 @@
 
 _A fully automated AI generated Newsletter covering Macroeconomics and Stock Market News._
 ![](https://wp.stocktwits.com/wp-content/uploads/sites/2/2025/01/06172555/Finviz-Heatmap-01-06-25.png?_bhlid=08c737ec236972b0fd257580d7e3896d6fa0a99c)
-Source: CNBC, https://www.cnbc.com/embeddable-heat-map/
+Source: CNBC, [https://www.cnbc.com/embeddable-heat-map/](https://finviz.com/map.ashx?t=sec&_bhlid=6c44074196742d9aaa903d0b439ff56184270779)
 
 ## Introduction
 
